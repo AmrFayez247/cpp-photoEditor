@@ -1,4 +1,4 @@
-# cpp-photoEditor
+# photoEditor
 
 - This is a simple application for bitmap photo editing that uses 12 filters.
 - The program takes name of the photo as an input and allow multiple filters on photo.
